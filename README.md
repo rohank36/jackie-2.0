@@ -2,8 +2,11 @@
 Fine tuned a model to do the NYT crosswords, named after the fastest player in my crossword league.
 
 
-10/4/2024: 
+10/4/2024:
+
+ 
 GPT: 6/10 --> 60% accuracy
+
 Jackie 2.0: 2/10 --> 20% accuracy
 
 
